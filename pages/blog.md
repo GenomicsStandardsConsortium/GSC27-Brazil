@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GSC24 The meeting abstracts
+title: GSC27 The meeting abstracts
 cover-img: /assets/img/header.jpg
 ---
 

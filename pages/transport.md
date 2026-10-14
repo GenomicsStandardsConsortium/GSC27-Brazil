@@ -5,21 +5,11 @@ cover-img: /assets/img/transport.jpg
 share-img: /assets/img/transport.jpg
 ---
 
-# International travel to Rotorua via Auckland 
+# International travel to Sao Paulo 
 
-International airlines fly into Auckland, Christchurch and Wellington. There are domestic flights from all of these cities to Rotorua, but Auckland is the closest. Travelling from Auckland to Rotorua is a short 40-min flight with Air New Zealand or a 3-hour drive. 
-
-There is an InterCity bus service: [Intercity.co.nz](https://www.intercity.co.nz/). If you’re travelling as a group, you can book a private shuttle service to/fro the airport. 
-
-The conference venue is within easy walking distance of central Rotorua including restaurants and shops. For other forms of transport around Rotorua, including Rotorua airport, there are several options: \
-Rotorua Taxis, +647 348 111, [RotoruaTaxis.co.nz](http://www.rotoruataxis.co.nz) \
-Urban Link, +647 347 6666 \
-Ready2Roll (can seat up to 16 people), +6421 258 9887, [ready2roll.co.nz](http://ready2roll.co.nz) \
-Silver Bird Tours & Shuttles, [Silver Bird Shuttles](https://www.silverbirdshuttlesnzwix.com) \
-Car rental companies operate out of Rotorua Airport and Rotorua central \
-Uber is also available. 
-
-There are several bus routes which cover the Rotorua urban area, for more information see [Cityride-bus-services](https://www.rotoruanz.com/visit/listing/things-to-do/cityride-bus-services) and visit the [Baybus website](https://www.baybus.co.nz/routes/2/) to plan your trip. 
+<!-- Add in as much information as possible about hot to get to the venue, including various airports, how to tranfer from those airports to the local venue Cityride-bus-services, any car-rental details, local taxi details, bus routes etc. 
+If appropriate include details of what NOT to do!
+-->
 
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)

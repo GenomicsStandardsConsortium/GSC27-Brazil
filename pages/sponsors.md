@@ -9,7 +9,7 @@ share-img: /assets/img/
  ![PlatinumSponsor](./images/PlatinumSponsor-500.png)
 
 [ ![ZymoPlatinum](./images/ZymoResearch-yellow-250.jpg) ](https://zymoresearch.eu/)
-[ ![Tourism New Zealand](./images/Tourism-New-Zealand-250.png) ](https://www.tourismnewzealand.com/)
+
 
 ___
 
@@ -20,16 +20,11 @@ ___
 
  ![SilverSponsor](./images/SilverSponsor-500.png) 
  
-[ ![ONT](./images/ONT_3Line_Black-250.png) ](https://nanoporetech.com/)
-[ ![GenAot](./images/GA-Wide-Colour-250.png) ](https://www.genomics-aotearoa.org.nz/)
-
 
 ___
 
  ![BronzeSponsor](./images/BronzeSponsor-500.png)
 
-[ ![MicrobiomeBronze](./images/microbiome_logo-250.jpg) ](https://microbiomejournal.biomedcentral.com/)	
-[ ![Auckland Genomics](./images/AucklandGenomicsLogo_.jpg) ](https://www.genomics.auckland.ac.nz/)
 
 
 ___
@@ -43,23 +38,23 @@ Scientific vendors will have the opportunity to interact with attendees and spea
 Note - Sponsorship values are in USD as the GSC is a registered non-profit in USA.
 
 # Sponsorship Level Opportunities:
-A brochure describing the sponsorship opportunities will be [available here]({{ '/assets/GSC26-Sponsorship-prospectus.pdf' | relative_url }})
+A brochure describing the sponsorship opportunities will be [available here]({{ '/assets/GSC27-Sponsorship-prospectus.pdf' | relative_url }})
 
-The details below are from the GSC25 meeting and serve as a guide that will be revised soon (prices in USD)
+The details below are from the GSC27 meeting and serve as a guide that will be revised soon (prices in USD)
 
-## Bronze Sponsor ($1,000 USD / $1,700 NZD) sponsors will receive the following benefits:
-1.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
+## Bronze Sponsor ($TBC USD/TBC BRL) sponsors will receive the following benefits:
+1.	Acknowledgment of sponsorship on the GSC27 website, including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 
-## Silver Sponsor ($4,000 USD / $7,000 NZD) sponsors will receive the following benefits:
-1.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
+## Silver Sponsor ($TBC USD/TBC BRL) sponsors will receive the following benefits:
+1.	Acknowledgment of sponsorship on the GSC27 website, including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 3.	One free meeting registration.
 4.	Organization name and logo recognition on meeting signage.
 5.	Logo included on inter-session slides.
 	
-## Gold Sponsor ($7,000 uSD / $12,000 NZD) sponsors will receive the following benefits:
-1.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
+## Gold Sponsor ($TBC USD/TBC BRL) sponsors will receive the following benefits:
+1.	Acknowledgment of sponsorship on the GSC27 website, including links to your company’s website.
 2.	Inclusion of the sponsor’s logo in meeting materials.
 3.	One free meeting registration.
 4.	Tabletop exhibition display (~1.6 m, 5ft).
@@ -67,9 +62,9 @@ The details below are from the GSC25 meeting and serve as a guide that will be r
 6.	Organization name and logo recognition on meeting signage.
 7.	Logo included on inter-session slides.
 
-## Platinum Sponsor ($10,000 USD / $17,000 NZD) sponsors will receive the following benefits:
+## Platinum Sponsor ($TBC USD/TBC BRL) sponsors will receive the following benefits:
 1.	Guaranteed 15-minute speaking slot in the program of the annual GSC meeting.
-2.	Acknowledgment of sponsorship on the GSC26 website, including links to your company’s website.
+2.	Acknowledgment of sponsorship on the GSC27 website, including links to your company’s website.
 3.	Inclusion of the sponsor’s logo in meeting materials.
 4.	Two free meeting registrations.
 5.	Tabletop exhibition display (~1.6 m, 5ft).
@@ -77,10 +72,10 @@ The details below are from the GSC25 meeting and serve as a guide that will be r
 7.	Logo included on inter-session slides.
 8.	Special recognition of Platinum sponsor at symposium and in print and marketing materials.
 9.	Full-page symposium program advertisement.
-10.	Sponsor representative to join GSC board for GSC25 board dinner.
+10.	Sponsor representative to join GSC board for GSC board dinner.
 
 ## Custom Sponsorships
-Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc26-rotorua-organisers@googlegroups.com?subject=GSC26 Rotorua sponsorship">GSC26 organising committee.</a> We are happy to accommodate!
+Custom sponsorships are available, such as add-ons, partial upgrades, and event sponsorships. Please let us know your needs by contacting the <a href="mailto:gsc27-brazil-organisers@googlegroups.com?subject=GSC27 Brazil sponsorship">GSC27 organising committee.</a> We are happy to accommodate!
 
 
 

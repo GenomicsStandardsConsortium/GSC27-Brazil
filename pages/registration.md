@@ -6,20 +6,18 @@ share-img: /assets/img/
 ---
 
 
-**Registration has closed (July 22nd)** 
+**Registration** 
 
  Registration Fees
-**Early-bird** (until July 6)
-- Full registration $350 USD/600 NZD
-- Student registration $250 USD/450 NZD
-- Industry attendees registration $500 USD/850 NZD
+**Early-bird** (until TBC)
+- Full registration $TBC USD/TBC BRL
+- Student registration $TBC USD/TBC BRL
+- Industry attendees registration $TBC USD/TBC BRL
 
-**Standard** (until July 21)
-- Full registration $550 USD/900 NZD
-- Student registration $450 USD/750 NZD
-- Industry attendees registration $700 USD/1050NZD
-
-
+**Standard** (until TBC)
+- Full registration $TBC USD/TBC BRL
+- Student registration $TBC USD/TBC BRL
+- Industry attendees registration $TBC USD/TBC BRL
 
 By registering you are agreeing to the terms and conditions set out below, please read these careful before completing your registration.
 
@@ -27,7 +25,7 @@ By registering you are agreeing to the terms and conditions set out below, pleas
 
 ### Registration Reimbursement Policy?”
 Registration fees can be reimbursed, upon request from registrants, up to 60 days before the GSC meeting. 
-Fees will be reimbursed, minus a $50 USD/$100 NZD administrative fee. 
+Fees will be reimbursed, minus a $50 USD administrative fee. 
 Please direct any refund requests to genomicstandardsconsortium@gmail.com. 
 
 ### CONFERENCE ATTENDEES CODE OF CONDUCT
