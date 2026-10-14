@@ -1,0 +1,78 @@
+---
+layout: page
+title: Online Agenda
+cover-img: /assets/img/schedule-banner.png
+share-img: /assets/img/
+---
+[GSC26 Agenda Booklet](https://drive.google.com/file/d/1E3s9NK8b3WV0DnGjtaM54XgrWkBFIE3E/view?usp=sharing) 
+Click here to view session times, speakers and presentation titles.
+
+AI‑readiness is becoming a defining requirement for genomic data standards, and this theme will run throughout the three days of GSC2026. The meeting will bring together researchers, data stewards, and standards developers to examine how genomic repositories can support responsible, interoperable, and culturally grounded uses of AI. 
+Day 1 focuses on genomics in Indigenous contexts, including case studies, and a panel on developing data standards that maintain Indigenous metadata to support governance and data sovereignty. 
+Day 2 will cover: new and evolving standards for genomic data; and different genomic data repository models, including those that are access‑controlled and federated. A panel discussion addressing how these distributed repositories can maintain interoperability and be machine-actionable will close Day 2. 
+Day 3 includes a dedicated session on Omics in AI and Digital Twins, followed by a session on Building Trustworthy Omic Data Ecosystems. A featured speaker will be Dr. Nicole Edwards, whose recent Nature Neuroscience paper theorizes how Indigenous communities can shape what genomic data AI systems access and how AI algorithms are designed. Her work advocates for federated access-controlled repositories and federated AI‑learning approaches, ideally aligned with Indigenous‑led “sovereign AI” frameworks. We also hope to include presenters (pending funding) that can speak to how standards such as MIxS may evolve to better support AI‑driven analyses and allow genomic data to contribute to large‑scale Digital Twin initiatives.
+
+# Agenda (8:30 am - 5:00 pm)
+## Day 1: Wednesday August 12 - Genomic Standards in Indigenous contexts
+* Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
+* mihi whakatau (formal Māori welcome ceremony)
+* GSC welcome [Lynn Schriml](https://www.medschool.umaryland.edu/profiles/schriml-lynn/), [GSC](https://www.gensc.org/) President (University of Maryland School of Medicine)
+* Keynote: [Amanda Black](https://researchers.lincoln.ac.nz/amanda.black) (Lincoln University) Indigenous Data Governance: Data Standards in Indigenous contexts 
+* Session Themes: Oceania genomics & Indigenous metadata; Access and benefit sharing and biocultural stewardship; Regulations
+* Speakers
+* [Kalinda Griffiths](https://www.linkedin.com/in/kalinda-griffiths/) (Flinders University) Australian Indigenous Genomics
+* [Leke Hutchins](https://www.lekehutchins.com/) (UC Berkeley) Applying Indigenous Data Sovereignty Principles
+* [Cas Sedran-Price](https://www.linkedin.com/in/dr-cas-sedran-price-ab436861/) (University Centre for Rural Health) CARE Principles
+* [Hop Hopkins](https://www.linkedin.com/in/hophopkins/) Local Contexts Executive Director
+* [Neil Davies](https://moorea.berkeley.edu/people/Neil-Davies) (UC Berkeley) CARE/FAIR Use Cases
+* [Kris Locken](https://www.linkedin.com/in/kristopher-locken-a5a071a3/) ([Zymo Research](https://www.zymoresearch.com/?srsltid=AfmBOop13fdu2SJlLCxy_SkM__KTaV-fJ1WIHHDXuaNZmWgLFvClBfV8)) Platinum Sponsor
+* Panel Discussion: Data Standards in Indigenous Contexts
+
+## Day 2: Thursday August 13 - Genomic Standards
+* Themes: GSC Standards; Single-cell, eDNA, ancient DNA Standards; Standards Across Genomic Repositories & DNA reference databases: Partnership models & LISTEN principles
+* Speakers
+* [Miwa Takahashi](https://www.linkedin.com/in/miwa-takahashi-b73817142/) (CSIRO) FAIRe eDNA checklists - Dawn Field Awardee
+* [Montana Smith](https://www.linkedin.com/in/montana-smith-426994234/) ([NMDC](https://www.linkedin.com/in/montana-smith-426994234/)) GSC MIxS v7.0
+* [Tina Warinner](https://www.linkedin.com/in/christina-warinner-0b6bb418/) (Harvard University) Ancient DNA (aDNA) MInAS update
+* [Katie Pitz](https://www.linkedin.com/in/kathleen-pitz-32236610/) ([MBARI](https://www.mbari.org/person/kathleen-pitz/):Monterey Bay Aquarium Research Institute) MIOP: Minimum Information about an Omics Protocol 
+* [Tanja Woyke](https://www.linkedin.com/in/tanja-woyke-4537459/) (DOE, Joint Genome Institute) Single-cell genomic standards
+* [Phil Wilcox](https://www.otago.ac.nz/maths-and-stats/people/associate-professor-phillip-wilcox) (University of Otago, University of Auckland) Omic Observing and Reference Databases: [Rakeiora](https://rakeiora.ac.nz/)
+* [Jodie Van De Kamp](https://www.linkedin.com/in/jodie-van-de-kamp-b24088a4/) (CSIRO) Australian Microbiome
+* [Tobias Frøslev](https://www.linkedin.com/in/tobias-guldberg-fr%C3%B8slev-1a41208/) (GBIF) Global Biodiversity Information Facility
+* [John Deck](https://www.linkedin.com/in/john-deck-b068375/) (UC Berkeley) Genomic Observatories Metadatabase (GeOMe)
+* [Chris Meyer](https://www.linkedin.com/in/chris-meyer-9102414b/) (Smithsonian's National Museum of Natural History) Ocean Biomolecular Observing Network (OBON)
+* [Claire Rye](https://www.linkedin.com/in/claire-rye-b390bb66/) (University of Auckland, [Aotearoa Genomic Data Repository](https://data.agdr.org.nz/)); [Mik Black](https://www.otago.ac.nz/faculty-biomedical-sciences/expertise/profile?id=352) ([Genomics Aotearoa](https://www.genomics-aotearoa.org.nz/)); [Libby Liggins](https://profiles.auckland.ac.nz/libby-liggins) (University of Auckland) Sequence Repositories: Aotearoa Genomic Database
+* [Masanori Arita](https://www.nig.ac.jp/en/business/bsi/) (DNA Data Bank of Japan (DDBJ)) 
+* [Guy Cochrane](https://www.linkedin.com/in/guy-cochrane-b7291819/) (EMBL-EBI, Global Biodata Coalition) GBC: Role of data standards connecting data ecosystems
+* [Peter Woollard](https://www.linkedin.com/in/peterwoollard/) European Bioinformatics Institute EMBL-EBI
+* [Seungwoo Hwang](https://oak.kribb.re.kr/researcher-profile?ep=488&type=all&sort_by=dc.date.issued_dt&order=DESC) (Korea Bioinformation Center)
+* [Yuriy Skripchenko](https://www.linkedin.com/in/ilene-mizrachi-a7167717/) (NIH/NCBI Sequence Read Archive) INSDC future 
+
+**Evening Networking**: 
+*[Thursday night market](https://www.rotoruanz.com/visit/listing/things-to-do/rotorua-night-market)
+
+## Day 3: Friday August 14 - Ethical, Legal, and Social Context
+* Themes: Ethical, Legal, and Social metadata; Standards for Bioconvergence: Genomics and AI
+*[Christina Pavloudi](https://www.linkedin.com/in/christinapavloudi/) (EMBRC - European Marine Biological Resource Centre) Large scale observing & research infrastructures,
+* [Nicole Edwards](https://www.linkedin.com/in/nicole-edwards-66281557/?locale=de) (University of Auckland) Indigenous data governance in AI and omics
+* [Maheata White](https://www.linkedin.com/in/maheata-white-1a984930/) (Université de la Polynésie Française) Internet of Places (iPlaces)
+* [Erin Robinson](https://www.linkedin.com/in/erinmr/) (Metadata Game Changers) Building place-based data trusts (iPlaces)
+* [Joseph Yracheta](https://www.linkedin.com/in/joseph-yracheta-582a133a/) (Native Biodata Consortium)
+* [Ann McCartney](https://www.linkedin.com/in/ann-mc-cartney-097a398b/) (Earth BioGenome Project) ABS mechanisms in support of the Nagoya Protocol
+
+* Afternoon: Standards Development Workshops
+
+
+ 
+
+## Thank you to our sponsors
+
+![Platinum1](./images/ZymoResearch-yellow-125.jpg)	
+![Platinum2](./images/Tourism-New-Zealand-125.png)
+![Silver1](./images/ONT_3Line_Black-125.png)
+![Silver2](./images/GA-Wide-white-125.png)
+![Bronze1](./images/microbiome_logo-125.jpg) 
+![Bronze1](./images/AucklandGenomicsLogo_.jpg)
+
+
+[ ![GenSC](../assets/img/gsc_logo_sml.png) ](https://www.gensc.org/)
