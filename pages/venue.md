@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Conference Venue
-cover-img: /assets/img/millennium_1.png
-share-img: /assets/img/Millenium.jpg
+cover-img: /assets/img/CGH-Hotel-outside.png
+share-img: /assets/img/CGH-Hotel-outside.png
 ---
 
 # [Casa Grande Hotel Resort](https://www.casagrandehotelresort.com.br/)
