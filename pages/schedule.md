@@ -6,7 +6,17 @@ share-img: /assets/img/
 ---
 The [GSC27 Agenda Booklet](add google drive URL here) will be available as soon as its ready.
 
-Summary of themse will be added here soon.
+Summary of themes will be added here soon.
+
+# Confirmed speakers include:
+
+### [Mario Murakami](https://scholar.google.com.br/citations?user=Ff5cpsUAAAAJ&hl=pt-BR)
+
+### [David Roos](https://web.sas.upenn.edu/endowed-professors/roos/)
+
+### [Folker Meyer](https://www.ikim.uk-essen.de/groups/ds)
+
+
 
 # Agenda (8:30 am - 5:00 pm)
 ## Day 1: 
