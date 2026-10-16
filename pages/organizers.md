@@ -17,16 +17,8 @@ To contact the organizing committee please <a href="mailto:gsc27-brazil-organise
 * [Christopher Hunter](https://www.linkedin.com/in/chr1shunter/) (University of Exeter)
 * [Ilene Mizrachi](https://www.linkedin.com/in/ilene-mizrachi-a7167717/) (NCBI, GenBank)
 * [Scott Tighe](https://www.linkedin.com/in/scott-tighe-094058a/) (University of Vermont)
-
-
-
+* [Kasthuri Venkateswaran](https://www.linkedin.com/in/kasthuri-venkateswaran-82164b56/) (NASA JPL)
+* [Kris Locken](https://www.linkedin.com/in/kristopher-locken-a5a071a3/) (Zymo Research Corp)
 
 
 ![GenSC logo](../assets/img/gsc_logo_sml.png)
-
-
-
-
-
-
-
