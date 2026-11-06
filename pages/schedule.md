@@ -16,17 +16,18 @@ Summary of themes will be added here soon.
 
 ### [Folker Meyer](https://www.ikim.uk-essen.de/groups/ds)
 
-
+### [Joana Pauperio](https://www.ebi.ac.uk/people/person/joana-pauperio/) EBI
+### [Montana Smith](https://www.pnnl.gov/people/montana-smith) PNNL
 
 # Agenda (8:30 am - 5:00 pm)
-## Day 1: 
-* Themes: 
-## Day 2: 
-* Themes: 
+July 27: GSC board meeting
+## Day 1: July 28th
+Welcome Opening, keynote and technical talks
+## Day 2: July 29th
+keynote and technical talks, MIxS hands-on workshop; Poster session and Evening Reception
 **Evening Networking**: 
-## Day 3: 
-* Themes: 
-
+## Day 3: July 30th
+keynote and technical talks. Handoff GSC28 & Meeting Closing
  
 
 ## Thank you to our sponsors
