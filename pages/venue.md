@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Conference Venue
-cover-img: /assets/img/CGH-Hotel-outside.png
+cover-img: /assets/img/casa-grande-hotel-pool.png
 share-img: /assets/img/CGH-Hotel-outside.png
 ---
 
-# [Casa Grande Hotel Resort](https://www.casagrandehotelresort.com.br/)
+# Meeting Venue
+GSC27 will be held at [Casa Grande Hotel Resort and Spa](https://www.casagrandehotelresort.com.br/)
 
-Details to follow
+The Meeting Room:
+![meeting room](../assets/img/CGH-meeting-room.png)
 
-## Meeting Room:
-
-Details to follow
+The balcony:
+![balcony](../assets/img/CGH-balcony.png)
 
 
 ## [About Genomic Standards Consortium](https://www.gensc.org/)
